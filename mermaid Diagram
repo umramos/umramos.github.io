@@ -4,5 +4,3 @@ flowchart TD
     C -->|looking at a knife| D[bad ending]
     C -->|listening to wife monologue| E[true ending]
     C -->|looking at wife photo| F[kill wife and take fa:fa-car Car ending]
-<p></p>
-<img src = "flowchart2.jpeg">
